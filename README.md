@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/chakra-hub/chakra-hub/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner%20(2).png)]
+![MasterHead](https://github.com/chakra-hub/chakra-hub/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Chakradhar Pradhan</h1>
 <h3 align="center">A passionate Front-end React Developer based in Hyderabad, India. 📍</h3>
 
