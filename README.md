@@ -8,9 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chakra-hub" alt="chakra-hub" /></a> </p>
 
-- 🔭 I’m currently working on [MyTube - A YouTube clone with popular video browsing, search, and playback capabilities, as well as a live chat feature to enhance user interaction.](https://chakra-hub-mytube.netlify.app/)
-
-- 👨‍💻 All of my projects are available at [https://chakradhar-pradhan.netlify.app/](https://chakradhar-pradhan.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://chakradharpradhan.vercel.app/](https://chakradharpradhan.vercel.app/)
 
 - 📫 How to reach me **chkrdhrprdhn@gmail.com**
 
